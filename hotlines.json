@@ -1,3 +1,409 @@
 {
-  "countries": {}
+  "countries": {
+    "Algeria": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Argentina": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Armenia": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Australia": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Austria": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Azerbaijan": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "United States": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Bahrain": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Bangladesh": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Barbados": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Belarus": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Belgium": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Bolivia": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Botswana": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Brazil": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Brunei": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Bulgaria": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Canada": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Chile": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "China": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Colombia": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Croatia": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Cuba": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Cyprus": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Denmark": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Ecuador": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Egypt": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Estonia": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Fiji": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Finland": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "France": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Germany": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Ghana": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Greece": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Greenland": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Guyana": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Hungary": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Iceland": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "India": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Indonesia": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Iran": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Ireland": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Israel": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Italy": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Japan": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Jordan": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Korea": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Kenya": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Kosovo": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Latvia": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Lebanon": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Liberia": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Lithuania": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Luxembourg": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Malaysia": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Malta": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Mauritius": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Mexico": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Morocco": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Netherlands": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Norway": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Philippines": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Poland": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Portugal": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Romania": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Russia": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Serbia": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Singapore": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Slovakia": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Slovenia": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Spain": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Sudan": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Sweden": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Switzerland": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Taiwan": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Thailand": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Tonga": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Turkey": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Ukraine": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "England": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    },
+    "Uruguay": {
+      "national": [],
+      "states": {},
+      "provinces": {}
+    }
+  }
 }
